@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Overview
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
@@ -15,3 +15,15 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+# Release
+
+Release Store
+
+## Android
+
+play store
+
+## iOS
+
+app store
