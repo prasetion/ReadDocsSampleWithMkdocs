@@ -2,3 +2,4 @@ site_name: My Docs
 nav:
   - Overview: index.md
   - Release: release.md
+theme: readthedocs
