@@ -4,7 +4,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## iOS
 
-![Screenshot](img/screenshot.png)
+![Screenshot](img/Tomy.jpg)
 
 ## Android
 
